@@ -736,8 +736,8 @@ button,
 #header a {
   color: inherit; }
 #header svg {
-  max-width: 100px;
-  padding: 0 40px 0 0;
+  max-width: 90px;
+  padding: 0 10px 0 0;
   height: auto;
   float: left; }
 @media screen and (max-width: 736px) {
