@@ -25,6 +25,11 @@
 			color: inherit;
 		}
 
+        svg {
+            max-width: 100px;
+            height: auto;
+        }
+
 		@include breakpoint(small) {
 			h1 {
 				font-size: 2em;
