@@ -736,7 +736,7 @@ button,
 #header a {
   color: inherit; }
 #header svg {
-  max-width: 90px;
+  max-width: 100px;
   padding: 0 40px 0 0;
   height: auto;
   float: left; }
