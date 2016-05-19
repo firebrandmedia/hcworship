@@ -359,6 +359,39 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/images\/bg01.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 169192,
+		"inputAbbreviatedPath": "\/images\/bg01.jpg",
+		"outputAbbreviatedPath": "\/images\/bg01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/bg02.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 170680,
+		"inputAbbreviatedPath": "\/images\/bg02.jpg",
+		"outputAbbreviatedPath": "\/images\/bg02.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/bg03.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 122959,
+		"inputAbbreviatedPath": "\/images\/bg03.jpg",
+		"outputAbbreviatedPath": "\/images\/bg03.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
