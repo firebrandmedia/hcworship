@@ -33,6 +33,10 @@
             font-size: 2em;
         }
 
+        li:first-of-type {
+            margin-left: 0;
+        }
+
         a:link {
             border-bottom: none;
         }

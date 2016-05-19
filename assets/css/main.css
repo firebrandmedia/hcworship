@@ -763,6 +763,8 @@ button,
   #downloads li {
     display: inline;
     font-size: 2em; }
+  #downloads li:first-of-type {
+    margin-left: 0; }
   #downloads a:link {
     border-bottom: none; }
   @media screen and (max-width: 480px) {
