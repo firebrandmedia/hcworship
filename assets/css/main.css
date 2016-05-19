@@ -770,7 +770,7 @@ button,
   #downloads strong {
     float: left;
     margin-top: 3px;
-    font-size: 1.1em; }
+    font-size: 1em; }
   #downloads a:link {
     border-bottom: none; }
   @media screen and (max-width: 480px) {
