@@ -750,33 +750,33 @@ button,
     margin: 0 0 1em 0; } }
 
 /* Signup Form */
-#downloads {
+#signup-form {
   display: -moz-flex;
   display: -webkit-flex;
   display: -ms-flex;
   display: flex;
   position: relative; }
-  #downloads input[type="text"],
-  #downloads input[type="password"],
-  #downloads input[type="email"] {
+  #signup-form input[type="text"],
+  #signup-form input[type="password"],
+  #signup-form input[type="email"] {
     width: 18em; }
-  #downloads > * {
+  #signup-form > * {
     margin: 0 0 0 1em; }
-  #downloads > :first-child {
+  #signup-form > :first-child {
     margin: 0 0 0 0; }
   @media screen and (max-width: 480px) {
-    #downloads {
+    #signup-form {
       -moz-flex-direction: column;
       -webkit-flex-direction: column;
       -ms-flex-direction: column;
       flex-direction: column; }
-      #downloads input[type="type"],
-      #downloads input[type="password"],
-      #downloads input[type="email"] {
+      #signup-form input[type="type"],
+      #signup-form input[type="password"],
+      #signup-form input[type="email"] {
         width: 100%; }
-      #downloads > * {
+      #signup-form > * {
         margin: 1.25em 0 0 0; }
-      #downloads .message {
+      #signup-form .message {
         bottom: -1.5em;
         font-size: 0.9em;
         height: 1em;
