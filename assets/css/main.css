@@ -761,7 +761,7 @@ button,
   #downloads > :first-child {
     margin: 0 0 0 0; }
   #downloads ul {
-    margin-left: 0; }
+    padding-left: 0; }
   #downloads li {
     display: inline;
     font-size: 2em; }
