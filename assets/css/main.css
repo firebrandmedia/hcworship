@@ -761,7 +761,10 @@ button,
   #downloads > :first-child {
     margin: 0 0 0 0; }
   #downloads li {
-    display: inline; }
+    display: inline;
+    font-size: 2em; }
+  #downloads a:link {
+    border-bottom: none; }
   @media screen and (max-width: 480px) {
     #downloads {
       -moz-flex-direction: column;

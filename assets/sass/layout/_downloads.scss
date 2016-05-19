@@ -30,6 +30,11 @@
 
         li {
             display: inline;
+            font-size: 2em;
+        }
+
+        a:link {
+            border-bottom: none;
         }
 
 		@include breakpoint(xsmall) {
